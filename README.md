@@ -1,2 +1,3 @@
 # My-Website-Portfolio
-A website for my portfolio
+
+A website that shows my projects and skills.
